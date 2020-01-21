@@ -8,7 +8,7 @@
    
 	<properties>
 		<!-- spring main version -->
-		<spring-framework.version>5.1.1.RELEASE</spring-framework.version>
+		<spring-framework.version>5.2.3.RELEASE</spring-framework.version>
 		<!-- aop 관련 -->
 		<aspectj.version>1.9.1</aspectj.version>
 		<!-- Rest 처리 관련 -->
